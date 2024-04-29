@@ -1,0 +1,52 @@
+[
+  {
+    "employee_id": 1,
+    "first_name": "Jo",
+    "last_name": "Roberts",
+    "email": "jrobert@gmail.com",
+    "type": "regular",
+    "number_of_leaves": 12,
+    "benefits": [
+      "HMO"
+    ],
+    "contract_end_date": null,
+    "project": null
+  },
+  {
+    "employee_id": 2,
+    "first_name": "Cris",
+    "last_name": "Chua",
+    "email": "crischua@gmail.com",
+    "type": "regular",
+    "number_of_leaves": 12,
+    "benefits": [
+      "HMO"
+    ],
+    "contract_end_date": null,
+    "project": null
+  },
+  {
+    "employee_id": 4,
+    "first_name": "Juan",
+    "last_name": "DC",
+    "email": "jdc@gmail.com",
+    "type": "contractual",
+    "number_of_leaves": null,
+    "benefits": null,
+    "contract_end_date": "2024-12-12",
+    "project": "Spring EM"
+  },
+  {
+    "employee_id": 5,
+    "first_name": "Lisa",
+    "last_name": "Reid",
+    "email": "reidlisa@yahoo.com",
+    "type": "regular",
+    "number_of_leaves": 10,
+    "benefits": [
+      "HMO"
+    ],
+    "contract_end_date": null,
+    "project": null
+  }
+]
