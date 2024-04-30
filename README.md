@@ -16,4 +16,8 @@ For windows: `.\.venv\Scripts\activate`
 ##### Access the FastAPI endpoints documentation
 `<uvicorn server address>/docs`
 example: http://127.0.0.1:8000/docs
-
+# Improvements priority
+Added login security, token timeouts, etc.
+Employee search and sort functionality.
+Function to add employee type and corresponding attributes.
+Function to add benefits on the list of available benefits.
